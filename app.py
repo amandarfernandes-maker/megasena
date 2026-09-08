@@ -1,4 +1,3 @@
-```python
 import streamlit as st
 import random
 
@@ -38,4 +37,4 @@ st.caption(
     "⚠️ Os números são gerados aleatoriamente. "
     "Isso não aumenta as chances de ganhar."
 )
-```
+
